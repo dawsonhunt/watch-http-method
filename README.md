@@ -26,7 +26,6 @@ The protocol introduces five key concepts:
 |------|-------------|
 | `watch_server.py` | Flask-based WATCH server with filesystem monitoring, ALIVE eviction, and web dashboard |
 | `watch_client.py` | Command-line client that subscribes, displays Dispatches, and maintains Heartbeats |
-| `watch_protocol_proposal_v3.pdf` | The full Internet-Draft proposal document |
 | `README.md` | This file |
 
 ## Requirements
