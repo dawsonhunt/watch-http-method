@@ -167,7 +167,7 @@ the `WATCH_FOLDER` variable in `watch_server.py` to an absolute path.
 ## Authors
 
 - **Dawson Hunt** — Independent Researcher, Houston, TX
-- **Claude** — AI Research Assistant, Anthropic
+- **Quill** — AI Research Assistant
 
 ## License
 
