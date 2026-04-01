@@ -1,7 +1,7 @@
 # WATCH Protocol — Reference Implementation
 
 A working proof-of-concept for the WATCH HTTP method proposed in
-*draft-watch-http-method-00*, an Internet-Draft submitted to the IETF.
+*draft-hunt-httpbis-watch-method-00*, an Internet-Draft submitted to the IETF.
 
 ## What is WATCH?
 
